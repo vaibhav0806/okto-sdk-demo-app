@@ -17,7 +17,7 @@ const Navbar = ({ children }) => {
       <div className="flex justify-between items-center py-4">
         <div className="flex items-center justify-center gap-2">
           <Image src="/img/okto-logo.png" height={36} width={36} alt="logo" />
-          <div className="text-3xl font-semibold">okto</div>
+          <div className="text-3xl font-semibold text-black">okto</div>
           <div className="bg-[#f5f6fe] text-[#6679ef] rounded-full text-xs px-2 py-1 font-bold">
             Demo
           </div>
